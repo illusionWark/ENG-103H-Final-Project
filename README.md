@@ -13,10 +13,10 @@ If that is the case, the user gets a point. If not, the user fails and loses all
 
 Inputs:
 	Left Button - For lock breaking input
-	Right Button - For lock breaking input
-	Switch - For turning device “on” and “off”
+ 	Right Button - For lock breaking input
+ 	Switch - For turning device “on” and “off”
 
 Outputs:
 	Neopixels - For the main game portion
-	Speaker - To help identify when a point has been scored / when the user loses
-	Built in LED - Displays score
+ 	Speaker - To help identify when a point has been scored / when the user loses
+  	Built in LED - Displays score
